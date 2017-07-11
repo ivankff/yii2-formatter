@@ -1,6 +1,6 @@
 <?php
 
-namespace ivankff\yii2-formatter;
+namespace ivankff\yii2Formatter;
 
 /**
  * @inheritdoc

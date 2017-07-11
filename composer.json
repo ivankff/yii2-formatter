@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ivankff\\yii2-formatter\\": "src/"
+            "ivankff\\yii2Formatter\\": "src/"
         }
     },
     "extra": {
